@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 490338b239e2820428180c13cc3496fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OdorantLogPrefab: {fileID: 1538533668946840, guid: bd4cfb2d55532b240970cfa79c8f16b4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

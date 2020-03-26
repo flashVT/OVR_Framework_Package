@@ -1,0 +1,28 @@
+{
+  "name": "com.ovrtechnology.framework",
+  "version": "0.2.0",
+  "displayName": "OVR Framework",
+  "description": "This is the base framework for OVR.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Joe Manley",
+    "email": "joe@ovrtechnology.com",
+    "url": "http://www.ovrtechnology.com"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashVT/OVRTest.git"
+  },
+  "samples": [
+   {
+
+     "displayName": "Sample1",
+
+     "description": "Description for sample 1",
+
+     "path": "Samples~/Sample1"
+
+   }
+ ]
+}
